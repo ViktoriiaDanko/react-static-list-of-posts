@@ -11,7 +11,7 @@ const User = ({user}) => {
       <p>{email}</p>
       <p>{adress}</p>
     </div>
-  );
+  )
 };
 
 export default User;
