@@ -1,5 +1,5 @@
 import React from 'react';
-import User from '../сomponents/User';
+import User from './User';
 
 const Comment = ({comment}) => {
   const {

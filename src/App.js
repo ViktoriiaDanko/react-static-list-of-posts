@@ -5,9 +5,9 @@ import posts from './api/posts';
 import comments from './api/comments';
 import users from './api/users';
 
-import PostList from './components/PostList';
-import PostDetails from './components/PostDetails';
-import CommentsList from './components/CommentsList';
+import PostList from './component/PostList';
+import PostDetails from './component/PostDetails';
+import CommentsList from './component/CommentsList';
 
 function Footer() {
   return (

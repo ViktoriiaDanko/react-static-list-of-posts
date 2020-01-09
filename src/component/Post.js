@@ -1,6 +1,6 @@
 import React from 'react';
-import User from '../сomponents/User';
-import CommentsList from '../сomponents/CommentsList';
+import User from './User';
+import CommentsList from './CommentsList';
 
 const Post = ({post}) => {
   const {
